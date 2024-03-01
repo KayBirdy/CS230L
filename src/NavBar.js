@@ -1,3 +1,4 @@
+import App from './App';
 import './NavBar.css';
 
 function NavBar() {
@@ -10,3 +11,4 @@ function NavBar() {
     </div>
   )
 }
+export default NavBar;
