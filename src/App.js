@@ -13,7 +13,7 @@ function App() {
         <p>Hi I am Kylie Burke</p>
         <Card />
     </div>
-  );
+  )
 }
 
 export default App;
