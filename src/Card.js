@@ -7,7 +7,7 @@ return(
       <div class="card text-white bg-primary">
         <div class="card-body">
           <h5 class="card-title">Card 01</h5>
-          <p class="card-text">These cards and navigation bar is made for AWS Assignment 2.</p>
+          <p class="card-text">These cards and navigation bar were made for AWS Assignment 2.</p>
         </div>
       </div>
     </div>
